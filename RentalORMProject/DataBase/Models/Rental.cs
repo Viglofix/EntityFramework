@@ -1,0 +1,14 @@
+using System.ComponentModel.DataAnnotations;
+
+namespace DataBase.Models;
+
+public class Rental
+{
+    public int? id { get; set; }
+    public int? user_id { get; set; }
+    public DateTime start_date { get; set; }
+    public DateTime end_date { get; set; }
+    public decimal? total_cost { get; set; }
+    public virtual User? User { get; set; }
+
+ }

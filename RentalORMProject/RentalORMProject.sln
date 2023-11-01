@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentalORMProject", "RentalORMProject\RentalORMProject.csproj", "{55519187-45E4-486E-96D3-2248021655AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBase", "DataBase\DataBase.csproj", "{8F042031-60B6-46BC-A718-7DF4615379CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55519187-45E4-486E-96D3-2248021655AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55519187-45E4-486E-96D3-2248021655AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55519187-45E4-486E-96D3-2248021655AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55519187-45E4-486E-96D3-2248021655AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F042031-60B6-46BC-A718-7DF4615379CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F042031-60B6-46BC-A718-7DF4615379CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F042031-60B6-46BC-A718-7DF4615379CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F042031-60B6-46BC-A718-7DF4615379CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68DB3672-77D3-4847-B788-DA34E9A39427}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+D:\Programmig\EntityFramewrok\RentalDataBaseVersionORM\RentalORMProject\DataBase\bin\Debug\net7.0\DataBase.deps.json
+D:\Programmig\EntityFramewrok\RentalDataBaseVersionORM\RentalORMProject\DataBase\bin\Debug\net7.0\DataBase.runtimeconfig.json
+D:\Programmig\EntityFramewrok\RentalDataBaseVersionORM\RentalORMProject\DataBase\bin\Debug\net7.0\DataBase.dll
+D:\Programmig\EntityFramewrok\RentalDataBaseVersionORM\RentalORMProject\DataBase\bin\Debug\net7.0\DataBase.pdb
+D:\Programmig\EntityFramewrok\RentalDataBaseVersionORM\RentalORMProject\DataBase\obj\Debug\net7.0\DataBase.csproj.AssemblyReference.cache
+D:\Programmig\EntityFramewrok\RentalDataBaseVersionORM\RentalORMProject\DataBase\obj\Debug\net7.0\DataBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmig\EntityFramewrok\RentalDataBaseVersionORM\RentalORMProject\DataBase\obj\Debug\net7.0\DataBase.AssemblyInfoInputs.cache
+D:\Programmig\EntityFramewrok\RentalDataBaseVersionORM\RentalORMProject\DataBase\obj\Debug\net7.0\DataBase.AssemblyInfo.cs
+D:\Programmig\EntityFramewrok\RentalDataBaseVersionORM\RentalORMProject\DataBase\obj\Debug\net7.0\DataBase.csproj.CoreCompileInputs.cache
+D:\Programmig\EntityFramewrok\RentalDataBaseVersionORM\RentalORMProject\DataBase\obj\Debug\net7.0\DataBase.dll
+D:\Programmig\EntityFramewrok\RentalDataBaseVersionORM\RentalORMProject\DataBase\obj\Debug\net7.0\refint\DataBase.dll
+D:\Programmig\EntityFramewrok\RentalDataBaseVersionORM\RentalORMProject\DataBase\obj\Debug\net7.0\DataBase.pdb
+D:\Programmig\EntityFramewrok\RentalDataBaseVersionORM\RentalORMProject\DataBase\obj\Debug\net7.0\DataBase.genruntimeconfig.cache
+D:\Programmig\EntityFramewrok\RentalDataBaseVersionORM\RentalORMProject\DataBase\obj\Debug\net7.0\ref\DataBase.dll
